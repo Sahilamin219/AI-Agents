@@ -20,3 +20,5 @@ Minesweeper logic
     gamma = discount rate;
 
     
+![Screenshot from 2021-07-08 18-54-27](https://user-images.githubusercontent.com/48405411/126893486-68208bab-d6d6-4b3c-bf16-3b7905f6f0b4.png)
+![Screenshot from 2021-07-08 18-54-24](https://user-images.githubusercontent.com/48405411/126893490-51d69f3a-128c-4ff9-90ac-b76be2f4b9ec.png)
