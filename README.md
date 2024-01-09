@@ -1,5 +1,6 @@
 # Taxi-ai
 AI for playing taxi-v3 (in gym env.)
+### Published On : https://sahilamin219.gitbook.io/ai/
 
 # Taxi-Agent
 What is Q-Learning?
